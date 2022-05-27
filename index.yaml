@@ -1,0 +1,16 @@
+---
+Game:
+  Game-UpdateExample:
+    Name: Demo
+    Available:
+    - '0.1'
+    - '0.2'
+    - '0.3'
+    - '0.4'
+    path: Game-UpdateExample
+  AnotherGame:
+    Name: Demo2
+    Available:
+    - '0.1'
+    path: Game-UpdateExample
+

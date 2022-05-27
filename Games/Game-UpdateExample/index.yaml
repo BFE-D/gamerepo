@@ -1,0 +1,26 @@
+---
+Main:
+  Install:
+    '0.1':
+      File: Base0.zip
+      Size: '1895'
+    '0.2':
+      File: Update1.zip
+      Size: '4962'
+    '0.3':
+      File: Update2.zip
+      Size: '4967'
+    '0.4':
+      File: Update3.zip
+      Size: '4967'
+  Update:
+    '0.2':
+      File: diff0-1
+      Size: '4324'
+    '0.3':
+      File: diff1-2
+      Size: '6'
+    '0.4':
+      File: diff2-3
+      Size: '1'
+
